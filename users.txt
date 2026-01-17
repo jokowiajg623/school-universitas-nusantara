@@ -1,0 +1,17 @@
+root
+admin
+administrator
+admins
+user
+ubuntu
+contabo
+operator
+oracle
+azure
+vultr
+ec2-user
+test
+postgres
+guest
+centos
+fedora
